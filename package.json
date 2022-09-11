@@ -1,0 +1,24 @@
+{
+  "name": "portfoliowebpatrick",
+  "version": "1.0.0",
+  "description": "Learning Bootstrap 5 with Sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap5",
+    "sass"
+  ],
+  "author": "Pavlina Psarsky / Patrick Muriungi",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.8"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "autoprefixer": "^10.4.8",
+    "bootstrap": "^5.2.0"
+  }
+}
